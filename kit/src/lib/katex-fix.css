@@ -1,0 +1,3 @@
+/* KaTeX 預設把字放大 1.21 倍；改成跟外層一樣大，版面比較好算 */
+.katex { font-size: 1em !important; }
+.katex .katex-html { white-space: nowrap; }

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# 聲音檔不進 repo（可能有版權／肖像權問題），放在本機 assets/voices/
+assets/voices/*
+!assets/voices/.gitkeep
